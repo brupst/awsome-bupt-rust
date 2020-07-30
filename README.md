@@ -12,7 +12,7 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
 
 - [Codes](#codes)
   - [Compilation Principle](#compilation-principle)
-  - [Computer Network](#compter-network)
+  - [Computer Network](#computer-network)
   - [Distributed System](#distributed-system)
   - [Hardware](#hardware)
   - [Operating System](#operating-system)
@@ -46,9 +46,9 @@ For more codes and projects written in Rust, please take a look at [rust-unoffic
 
 ### Operating System
 
-- [ElohimOS](https://github.com/name1e5s/ElohimOS) — OS project in the 2020's.
-- [GengOS](https://github.com/JmPotato/GengOS) — Yet another OS written in Rust
+- [geng_os](https://github.com/JmPotato/geng_os) — Yet another OS written in Rust
 - [xv7](https://github.com/imtsuki/xv7) — 🦀️ Operating System in 100% Pure Rust
+- [ElohimOS](https://github.com/name1e5s/ElohimOS) — OS project in the 2020's.
 
 ### Web
 
