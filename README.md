@@ -39,6 +39,7 @@ For more codes and projects written in Rust, please take a look at [rust-unoffic
 - [raft-kv](https://github.com/JmPotato/raft-kv) — ⛵ A basic key-value storage service with transaction and fault-tolerant in Rust.
 - [talent-plan](https://github.com/pingcap/talent-plan) — An open source training program initiated by PingCAP. It aims to create or combine some open source learning materials for people interested in open source, distributed systems, Rust, Golang, and other infrastructure knowledges.
 - [Ruft](https://github.com/S-1-T/Ruft) — Rust implementation of raft distributed consensus algorithm
+- [Zenoh](https://zenoh.io) - Rust implementation of an high-performance and extremely wire efficient Pub/Sub/Query protocol. 
 
 ### Hardware
 
