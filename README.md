@@ -17,6 +17,7 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
   - [Hardware](#hardware)
   - [Operating System](#operating-system)
   - [Web](#web)
+  - [Misc](#misc)
 - [Resources](#resources)
   - [Books](#books)
   - [Information](#information)
@@ -53,6 +54,10 @@ For more codes and projects written in Rust, please take a look at [rust-unoffic
 ### Web
 
 - [pastebin.rs](https://github.com/name1e5s/pastebin.rs) — A simple pastebin in Rust.
+
+### Misc
+
+- [kv_mpsc](https://github.com/waruto210/kv_mpsc) - A `kv_mpsc` is a bounded channel like `mpsc` in rust std, but it support message with key(s).
 
 ## Resources
 
